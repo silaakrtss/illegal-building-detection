@@ -1,0 +1,13 @@
+# Dataset ve eğitim çıktıları
+dataset/
+runs/
+
+# Model ağırlıkları
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ortam dosyaları
+.env
